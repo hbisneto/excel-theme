@@ -1,0 +1,40 @@
+{
+    "name":"theme-excel",
+    "displayName":"%displayName%",
+    "description":"%description%",
+    "categories":["Themes"],
+    "version":"1.0.0",
+    "publisher":"BisnetoInc",
+    "icon": "assets/icon.png",
+    "license":"MIT",
+    
+    "engines":
+    {
+        "vscode":"*"
+    },
+    
+    "contributes":
+    {
+        "themes":
+        [
+            {
+                "id":"Excel (Dark)",
+                "label":"%ExcelDark%",
+                "uiTheme":"vs-dark",
+                "path":"./themes/Dark/excel-theme-dark.json"
+            },
+            {
+                "id":"Excel (Light)",
+                "label":"%ExcelLight%",
+                "uiTheme":"vs",
+                "path":"./themes/Light/excel-theme-light.json"
+            }
+        ]
+    },
+    
+    "repository":
+    {
+        "type":"git",
+        "url":"https://github.com/hbisneto/excel-theme.git"
+    }
+}
