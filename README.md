@@ -11,7 +11,7 @@ Excel theme brings Microsoft Excel to Visual Studio Code.
 
 # Contribute
 
-Send your feedback about the themes. Any issue can be reported and opened directly from [repository](https://github.com/hbisneto/teams-theme)
+Send your feedback about the themes. Any issue can be reported and opened directly from [repository](https://github.com/hbisneto/excel-theme)
 
 #
 
